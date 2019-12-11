@@ -1,0 +1,492 @@
+{"data":[{
+
+	"users":[
+	{
+		"firstname":"Yanzhi", 
+		"lastname":"Shen", 
+		"email":"shenyanzhi@umd.edu", 
+		"password":"tina123"
+	},
+
+	{
+		"firstname":"Yannan", 
+		"lastname":"Liu", 
+		"email":"liuyannan@umd.edu",
+		"password":"tina123"
+	},
+
+	{
+		"firstname":"Shaoli", 
+		"lastname":"Qian", 
+		"email":"qianshaoli6@umd.edu", 
+		"password":"tina123"
+	},
+
+	{
+		"firstname":"Shuyang", 
+		"lastname":"Wang", 
+		"email":"wangshuyang@umd.edu", 
+		"password":"tina123"
+	}
+	],
+
+	"categories":[
+	{
+		"category":"Classical Ballet", 
+		"img_url":"", 
+		"description":"Classical ballet is based on traditional ballet technique and vocabulary. Different styles have emerged in different countries, such as French ballet, Italian ballet, English ballet, and Russian ballet. Several of the classical ballet styles are associated with specific training methods, typically named after their creators (see below). The Royal Academy of Dance method is a ballet technique and training system that was founded by a diverse group of ballet dancers. They merged their respective dance methods (Italian, French, Danish and Russian) to create a new style of ballet that is unique to the organization and is recognized internationally as the English style of ballet. Some examples of classical ballet productions are: Swan Lake, The Sleeping Beauty and The Nutcracker."
+	},
+
+	{
+		"category":"Romantic Ballet", 
+		"img_url":"", 
+		"description":"Romantic ballet was an artistic movement of classical ballet and several productions remain in the classical repertoire today. The Romantic era was marked by the emergence of pointe work, the dominance of female dancers, and longer, flowy tutus that attempt to exemplify softness and a delicate aura.[5] This movement occurred during the early to mid-nineteenth century (the Romantic era) and featured themes that emphasized intense emotion as a source of aesthetic experience. The plots of many romantic ballets revolved around spirit women (sylphs, wilis, and ghosts) who enslaved the hearts and senses of mortal men. The 1827 ballet La Sylphide is widely considered to be the first, and the 1870 ballet Coppélia is considered to be the last. Famous ballet dancers of the Romantic era include Marie Taglioni, Fanny Elssler, and Jules Perrot. Jules Perrot is also known for his choreography, especially that of Giselle, often considered to be the most widely celebrated romantic ballet."
+	},
+
+	{
+		"category":"Neoclassical Ballet", 
+		"img_url":"", 
+		"description":"Neoclassical ballet is usually abstract, with no clear plot, costumes or scenery. Music choice can be diverse and will often include music that is also neoclassical (e.g. Stravinsky, Roussel). Tim Scholl, author of From Petipa to Balanchine, considers George Balanchine's Apollo in 1928 to be the first neoclassical ballet. Apollo represented a return to form in response to Sergei Diaghilev's abstract ballets. Balanchine worked with modern dance choreographer Martha Graham, and brought modern dancers into his company such as Paul Taylor, who in 1959 performed in Balanchine's Episodes.\nWhile Balanchine is widely considered the face of neoclassical ballet, there were others who made significant contributions. Frederick Ashton’s Symphonic Variations (1946) is a seminal work for the choreographer. Set to César Franck’s score of the same title, it is a pure-dance interpretation of the score.\nAnother form, Modern Ballet, also emerged as an offshoot of neoclassicism. Among the innovators in this form were Glen Tetley, Robert Joffrey and Gerald Arpino. While difficult to parse modern ballet from neoclassicism, the work of these choreographers favored a greater athleticism that departed from the delicacy of ballet. The physicality was more daring, with mood, subject matter and music more intense. An example of this would be Joffrey's Astarte (1967), which featured a rock score and sexual overtones in the choreography."
+	},
+
+	{
+		"category":"Contemporary Ballet", 
+		"img_url":"http://www.artversed.com/wp-content/uploads/2016/09/Christopher-Wheeldon-Within-the-Golden-Hour.jpg", 
+		"description":"This ballet style is often performed barefoot. Contemporary ballets may include mime and acting, and are usually set to music (typically orchestral but occasionally vocal). It can be difficult to differentiate this form from neoclassical or modern ballet. Contemporary ballet is also close to contemporary dance because many contemporary ballet concepts come from the ideas and innovations of twentieth-century modern dance, including floor work and turn-in of the legs. The main distinction is that ballet technique is essential to perform a contemporary ballet. \nGeorge Balanchine is considered to have been a pioneer of contemporary ballet. Another early contemporary ballet choreographer, Twyla Tharp, choreographed Push Comes To Shove for the American Ballet Theatre in 1976, and in 1986 created In The Upper Room for her own company. Both of these pieces were considered innovative for their melding of distinctly modern movements with the use of pointe shoes and classically trained dancers. \nToday there are many contemporary ballet companies and choreographers. These include Alonzo King and his company LINES Ballet; Matthew Bourne and his company New Adventures; Complexions Contemporary Ballet; Nacho Duato and his Compañia Nacional de Danza; William Forsythe and The Forsythe Company; and Jiří Kylián of the Nederlands Dans Theater. Traditionally 'classical' companies, such as the Mariinsky (Kirov) Ballet and the Paris Opera Ballet, also regularly perform contemporary works. \nThe term ballet has evolved to include all forms associated with it. Someone training as a ballet dancer will now be expected to perform neoclassical, modern and contemporary work. A ballet dancer is expected to be able to be stately and regal for classical work, free and lyrical in neoclassical work, and unassuming, harsh or pedestrian for modern and contemporary work. In addition, there are several modern varieties of dance that fuse classical ballet technique with contemporary dance, such as Hiplet, that require dancers to be practised in non-Western dance styles"
+	},
+
+	{
+		"category":"Ballet Behind-the-scenes", 
+		"img_url":"", 
+		"description":"This category sums up a series of ballet dancers and dancinf arts' behind-the-scenes and is the way to show audience the true and painful ballet life"
+	},
+	],
+
+	"dances":[
+	{	
+		"title":"Tchaikovsky: Swan Lake - The Kirov Ballet", 
+		"production":"Swan Lake", 
+		"category":"Classical Ballet", 
+		"img_url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Swanlake015.jpg", 
+		"video_url":"https://www.youtube.com/watch?v=9rJoB7y6Ncs", 
+		"duration":"1:55:41", 
+		"description":"In this production of the best loved classical ballet 'Swan Lake' the naturally gifted Yulia Makhalina dances the challenging role of Odette/Odile while the part of Prince Siegfried is danced by Igor Zelensky.  This classic Kirov production includes the familiar happy ending in the final act where Siegfried fights and ultimately defeats the evil magician von Rothbart and at dawn is reunited with Odette."
+	},
+
+	{
+		"title":"Dance of the Sugar Plum Fairy from The Nutcracker (The Royal Ballet)", 
+		"production":"Dance of the Sugar Plum Fairy", 
+		"category":"Classical Ballet", 
+		"img_url":"", 
+		"video_url":"https://www.youtube.com/watch?v=zV1qLYukTH8", 
+		"duration":"2:40", 
+		"description":"Lauren Cuthbertson performs the famous Dance of the Sugar Plum Fairy, set to Tchaikovsky's iconic score. Peter Wright’s nigh-on definitive production for The Royal Ballet ranks as one of the most enduring and enchanting versions of The Nutcracker. With its festive period setting, dancing snowflakes and enchanting stage magic, Lev Ivanov’s 1892 ballet has become the perfect Christmas entertainment, with Tchaikovsky’s sumptuous, sugar-spun music the most recognizable of all ballet scores. Loosely based on the story by E.T.A. Hoffmann, the ballet opens with the lively Christmas party that is hosted by the Stahlbaum family, its Victorian setting captured in opulent detail by Julia Trevelyan Oman’s designs. Wright’s choreography ingeniously incorporates surviving fragments of the ballet’s original material, including the sublime pas de deux for the Sugar Plum Fairy and her Prince. But in emphasizing the relationship between Clara and the Nutcracker Prince, the production also gains a touching subtext of first love."
+	},
+
+	{	
+		"title":"Pyotr Ilyich Tchaikovsky / Nina Kaptsova - Dance of the Sugar Plum Fairy / 2010", 
+		"production":"Dance of the Sugar Plum Fairy", 
+		"category":"Classical Ballet", 
+		"img_url":"", 
+		"video_url":"https://www.youtube.com/watch?v=Wz_f9B4pPtg", 
+		"duration":"3:31", 
+		"description":"P.TCHAIKOVSKY - 'Dance of the Sugar Plum Fairy' / Nutcracker - Bolshoi Ballet 2010 / Life Extract"
+	},
+
+	{
+		"title":"Swan Lake, Tchaikovsky - Dance of the Little Swans", 
+		"production":"Swan Lake", 
+		"category":"Classical Ballet", 
+		"img_url":"", 
+		"video_url":"https://www.youtube.com/watch?v=Xd2nTXsivHs", 
+		"duration":"2:14", 
+		"description":"Pyotr Ilyich Tchaikovsky / Rudolf Nureyev - Swan Lake Act II: Dance of the Little Swans"
+	},
+
+	{
+		"title":"The Sleeping Beauty (ballet) - Tchaikovsky", 
+		"production":"The Sleeping Beauty", 
+		"category":"Classical Ballet", 
+		"img_url":"https://i.ytimg.com/vi/g6eA4PjWhws/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAhoZg9nmFsfpfwzpVnuQP5WqfpIQ", 
+		"video_url":"https://www.youtube.com/watch?v=g6eA4PjWhws", 
+		"duration":"2:13:13", 
+		"description":"The Sleeping Beauty (Russian: Спящая красавица / Spyashchaya krasavitsa) is a ballet in a prologue and three acts, first performed in 1890. The music was composed by Peter Ilyich Tchaikovsky. The Sleeping Beauty, with its Rose Adage, its grand pas de deux, its charming variations and its enchanting Tchaikovsky score, is the zenith of ballet’s golden age. Don’t miss the moment when this majestic Beauty opens her eyes. Interpreted by the 'Australian Ballet Company, featuring by The Elizabethan Melbourne Orchestra, conducted by Barry Wordsworth at Sidney Art Center."
+	},
+
+	{
+		"title":"La Sylphide - Tamara Rojo, Steven McRae", 
+		"production":"La Sylphide", 
+		"category":"Romantic ballet", 
+		"img_url":"https://i.ytimg.com/vi/6Mz7G4TNg6g/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBA_6AdKga7x0mjM64lf0p2-LL_3g", 
+		"video_url":"https://www.youtube.com/watch?v=6Mz7G4TNg6g&list=RDQMjp_rtDbQon0&start_radio=1", 
+		"duration":"11:51", 
+		"description":""
+	},
+
+	{
+		"title":"La Sylphide Act II pas de deux (Krysanova, Lopatin)", 
+		"production":"La Sylphide", 
+		"category":"Romantic ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/rppHxarz_yc/mqdefault_6s.webp?du=3000&sqp=CICCwe8F&rs=AOn4CLCbrJkAjy393o5q2wlpwJrMkhDjTg", 
+		"video_url":"https://www.youtube.com/watch?v=rppHxarz_yc", 
+		"duration":"14:52", 
+		"description":"Herman Severin Lovenskiold\n Choreography: August Bournoville (Johan Kobborg)"
+	},
+
+	{
+		"title":"Giselle - Act II pas de deux (Natalia Osipova and Carlos Acosta, The Royal Ballet)", 
+		"production":"Giselle", 
+		"category":"Romantic ballet", 
+		"img_url":"https://i.ytimg.com/vi/ql3o-1eSdbQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBqDZvW1mVicjIuWiDdJKiD5VGeOg", 
+		"video_url":"https://www.youtube.com/watch?v=ql3o-1eSdbQ&list=RDQMjp_rtDbQon0&index=3", 
+		"duration":"5:11", 
+		"description":"Natalia Osipova as Giselle and Carlos Acosta as Albrecht in Act II of Peter Wright's production of Marius Petipa’s Giselle."
+	},
+
+	{
+		"title":"Giselle Ballet (Act 2/2)", 
+		"production":"Giselle", 
+		"category":"Romantic ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/InX4nMWTQ6s/mqdefault_6s.webp?du=3000&sqp=CMyqwe8F&rs=AOn4CLBjfdvrDL9beKcc5W3WkzvAgIGgMQ", 
+		"video_url":"https://www.youtube.com/watch?v=InX4nMWTQ6s", 
+		"duration":"55:22", 
+		"description":"Diana Vishneva as Giselle\n Mathieu Ganio as Albrecht"
+	},
+
+	{
+		"title":"Neo Ballet 'All Directions'", 
+		"production":"All Directions", 
+		"category":"Neoclassical ballet", 
+		"img_url":"https://i.ytimg.com/vi/rpHGmu79Ltk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAhG09s2u7WjGbX9JFBRj4Ira_1VA", 
+		"video_url":"https://www.youtube.com/watch?v=W8KcwLntBYA", 
+		"duration":"4:24", 
+		"description":"All Directions. \n Neo Classical Ballet Choreographed by Jake Burden.\n Dancers from National College of Dance "
+	},
+
+	{
+		"title":"Concerto Barocco", 
+		"production":"Concerto Barocco", 
+		"category":"Neoclassical ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/oPlJ-KMjI_0/mqdefault_6s.webp?du=3000&sqp=COqGwu8F&rs=AOn4CLAvd-b6xUjowuTaJCTyM7Ss3FA3NA", 
+		"video_url":"https://www.youtube.com/watch?v=oPlJ-KMjI_0", 
+		"duration":"20:40", 
+		"description":"Ballet Chicago"
+	},
+
+	{
+		"title":"NYC Ballet's Ashley Laracey on George Balanchine's CONCERTO BAROCCO", 
+		"production":"Concerto Barocco", 
+		"category":"Neoclassical ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/hZIPwYL2t80/mqdefault_6s.webp?du=3000&sqp=COXnwe8F&rs=AOn4CLDZE1bYerMcG7a2YKt47scp12ug7Q", 
+		"video_url":"https://www.youtube.com/watch?v=hZIPwYL2t80", 
+		"duration":"3:02", 
+		"description":"Soloist Ashley Laracey talks about what makes the corps of NYC Ballet so unique - and shares their special pre-show ritual - in this behind-the-scenes look at one of Balanchine's most iconic ballets. "
+	},
+
+	{
+		"title":"J. S. Bach - Double Violin Concerto in D minor BWV 1043 Krakowska Młoda Filharmonia", 
+		"production":"Concerto Barocco", 
+		"category":"Neoclassical ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/0tN7hgkNF14/mqdefault_6s.webp?du=3000&sqp=CPrOwe8F&rs=AOn4CLAisZlNjFrb95agxgmisqh-L8ru7A", 
+		"video_url":"https://www.youtube.com/watch?v=0tN7hgkNF14", 
+		"duration":"17:31", 
+		"description":"Info: https://gr.afit.pl\nPolish Nationwide Music Schools' Symphonic Orchestras Competition\n00:23 I. Allegro\n04:30 II. Andante\n11:32 III. Allegro\nWinners Concert.\nWitold Lutosławski Concert Studio of Polish National Radio\nAudience Award\nCracow Young Philharmonic, Kraków (Cracow, Krakau, Cracovia) Poland\nNatalia Stęposz - violin,\nZuzanna Bolon - violin,\nTomasz Chmiel - conductor,\nOgólnopolski Konkurs Orkiestr Szkolnych Szkół Muzycznych II stopnia 2013, \nKrakowska Młoda Filharmonia, Orkiestra Symfoniczna Zespołu Państwowych Szkół Muzycznych im. Mieczysława Karłowicza w Krakowie, \nJ. S. Bach Koncert na dwoje skrzypiec d-moll BWV 1043\n"
+	},
+
+	{
+		"title":"4 TEMPERAMENTS (NYC Ballet 1964 Canadian filming)", 
+		"production":"Four Temperaments", 
+		"category":"Romantic Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/Tnj95tNGJ6c/mqdefault_6s.webp?du=3000&sqp=CND7we8F&rs=AOn4CLA0v80IjOf_AkCQ3klr-woT6mScXA", 
+		"video_url":"https://www.youtube.com/watch?v=Tnj95tNGJ6c", 
+		"duration":"30:36", 
+		"description":"The dancers are in order,\n1st Theme: Carol Sumner and William Weslow\n2nd Theme: Marnee Morris and Earle Sieveling\n3rd Theme: Suki Schorer and Ramon Segarra\nMELANCHOLIC:  Richard Rapp\nSANGUINIC:  Pat Wilde and Anthony Blum\nPHLEGMATIC:  Arthur Mitchell\nCHOLERIC:  Patricia Neary"
+	},
+
+	{
+		"title":"Balancine - The Four Temperaments - Dutch National Ballet 1962", 
+		"production":"Four Temperaments", 
+		"category":"Romantic Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/lzvAYAe3bDc/mqdefault_6s.webp?du=3000&sqp=COSNwu8F&rs=AOn4CLDoTHmz7Q6G5xIEOIFX6F8D1_54vw", 
+		"video_url":"https://www.youtube.com/watch?v=lzvAYAe3bDc", 
+		"duration":"28:38", 
+		"description":"Private 8mm registration of a performance of the George Balancine ballet The Four Temperaments by the Dutch National Ballet in 1962. Music by Paul Hindemith\nDit is een privé filmopname van een uitvoering van George Balancine's The Four Temperaments, op muziek van Paul Hindemith, door het Nederlandse Nationale Ballet in 1962"
+	},
+
+	{
+		"title":"Maria Kowroski on Balanchine’s AGON: Anatomy of a Dance", 
+		"production":"Agon", 
+		"category":"Romantic Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/CiPOZ0NS_2E/mqdefault_6s.webp?du=3000&sqp=CPrmwe8F&rs=AOn4CLDu_EINX8Z5pQ9ezGr8CCQBj8vhCA", 
+		"video_url":"https://www.youtube.com/watch?v=CiPOZ0NS_2E", 
+		"duration":"2:48", 
+		"description":"Maria Kowroski discusses how this Balanchine classic is, at its root, the story of a relationship. Agon translates as “contest” in Greek, and the ballet’s central pas de deux is a back-and-forth conversation between a couple, manifested in physical form."
+	},
+
+	{
+		"title":"NYC Ballet's Megan LeCrone on George Balanchine's AGON", 
+		"production":"Agon", 
+		"category":"Romantic Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/1fZCdTFPiUs/mqdefault_6s.webp?du=3000&sqp=CLruwe8F&rs=AOn4CLBc_C99Re4dzc-6vHPUo5mMfHjasg", 
+		"video_url":"https://www.youtube.com/watch?v=1fZCdTFPiUs", 
+		"duration":"3:57", 
+		"description":"Megan LeCrone talks about her special relationship with Agon, one of Balanchine and Stravinsky's most famous collaborations, and why this ballet is as radical today as it was in 1957."
+	},
+
+	{
+		"title":"Rehearsing Balanchine's Agon with Francia Russell", 
+		"production":"Agon", 
+		"category":"Romantic Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/cSBXCouHO_Y/mqdefault_6s.webp?du=3000&sqp=CLL3we8F&rs=AOn4CLARWPQGSaW6EXue7CbKlc4f3PPwNw", 
+		"video_url":"https://www.youtube.com/watch?v=cSBXCouHO_Y", 
+		"duration":"2:55", 
+		"description":"\"A stager is someone who should have all the information, the steps and the choreographer's intentions. They should be able to oversee the costumes, the lighting, spacing onstage, to work with the orchestra in the theater. They are responsible for every step of the production.\"\n-Francia Russell"
+	},
+
+	{
+		"title":"Alvin Ailey: Revelations", 
+		"production":"Revelations", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/BJv-MklXyec/mqdefault_6s.webp?du=3000&sqp=CLOGwu8F&rs=AOn4CLCKl0bfiqlbe4FuScrboOxLEKwNtg", 
+		"video_url":"https://www.youtube.com/watch?v=BJv-MklXyec", 
+		"duration":"4:16", 
+		"description":"In celebration of Black History Month, the cast of Alvin Ailey's Revelations perform \"Wade in the Water\"."
+	},
+
+	{
+		"title":"'Revelations' by Alvin Ailey", 
+		"production":"Revelations", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/tNqaixKbrjs/mqdefault_6s.webp?du=3000&sqp=CPmNwu8F&rs=AOn4CLDcXGwx2BPaIzEj3Fqnllcd-YRPiw", 
+		"video_url":"https://www.youtube.com/watch?v=tNqaixKbrjs", 
+		"duration":"2:45", 
+		"description":"Alvin Ailey said that one of America’s richest treasures was the cultural heritage of the African-American - ”sometimes sorrowful, sometimes jubilant, but always hopeful.” This enduring classic is a tribute to that heritage and to Ailey’s genius. Using African-American traditional spirituals, this suite fervently explores the places of deepest grief and holiest joy in the soul.\nAll performances of Revelations are permanently endowed by a generous gift from Donald L. Jonas in celebration of the birthday of his wife, Barbara, and her deep commitment to Alvin Ailey American Dance Theater."
+	},
+
+	{
+		"title":"\"Tornado\" Choreographer Richard Elszy / Industry Dance Award Winner/ Contemporary Dance With Prop", 
+		"production":"The Wiz", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/3_Ffb7wzzc8/mqdefault_6s.webp?du=3000&sqp=COrwwe8F&rs=AOn4CLA7gUQ3-wZt3_WZ2GuQAJYZGC4XJw", 
+		"video_url":"https://www.youtube.com/watch?v=3_Ffb7wzzc8", 
+		"duration":"3:30", 
+		"description":"\"Tornado\" Choreographer Richard Elszy \nIndustry Dance Award Winner \nPerformed by Adage Dance Center"
+	},
+
+	{
+		"title":"Svetlana Zakharova Revelation", 
+		"production":"Revelations", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/GMl0uXqkKcU/mqdefault_6s.webp?du=3000&sqp=CNaCwu8F&rs=AOn4CLA6n12nDi-Lwvuk5XvaFODKj-U6nQ", 
+		"video_url":"https://www.youtube.com/watch?v=GMl0uXqkKcU", 
+		"duration":"7:34", 
+		"description":""
+	},
+
+	{
+		"title":"Alvin Ailey Perform Revelations in Celebration of Black History Month | ELLE", 
+		"production":"Revelations", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/TljCtDUBSDg/mqdefault_6s.webp?du=3000&sqp=CID7we8F&rs=AOn4CLAFAUmGN5EyXLL9TKrYgLNiHWOrJA", 
+		"video_url":"https://www.youtube.com/watch?v=TljCtDUBSDg", 
+		"duration":"3:10", 
+		"description":"In honor of Black History Month, we spoke with Alvin Ailey stars Constance Stamatiou and Jamar Roberts on what it means to be performers of color in the dance world. Hear about their upbringing, obstacles they've faced in the industry, and what being part of a renowned African American dance company means to them. All performed over a riveting rendition of \"Fix Me Jesus\" from Alvin Ailey's Revelations."
+	},
+
+	{
+		"title":"Bacchanale from \"Samson & Delilah\"", 
+		"production":"Bacchanale", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/dBRGUmmeEfk/mqdefault_6s.webp?du=3000&sqp=CMuSwu8F&rs=AOn4CLAezEOs7dGZXC3oCPS9A4HFP7uMvg", 
+		"video_url":"https://www.youtube.com/watch?v=dBRGUmmeEfk", 
+		"duration":"8:00", 
+		"description":"Camille Saint-Saens' Bacchanale from \"Samson & Delilah\" choreographed by Kenneth von Heidecke."
+	},
+
+	{
+		"title":"Bacchanale from \"Samson & Delilah\" 1972", 
+		"production":"Bacchanale", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/gJn6KjgkC4Y/mqdefault_6s.webp?du=3000&sqp=CKaNwu8F&rs=AOn4CLDzLYtfxhtRBbCSq3Kp6y4DcTsv_A", 
+		"video_url":"https://www.youtube.com/watch?v=gJn6KjgkC4Y", 
+		"duration":"4:52", 
+		"description":"1988 I danced with the Oakway Symphony and in 1990 I danced with the Livonia Symphony.  I love seeing this old video!!"
+	},
+
+	{
+		"title":"Le Sacre du printemps / The Rite of Spring - Ballets Russes", 
+		"production":"The Rite of Spring", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/YOZmlYgYzG4/mqdefault_6s.webp?du=3000&sqp=CPKXwu8F&rs=AOn4CLAH0-x2c83n4yW6plMTg6f3Q4Dexw", 
+		"video_url":"https://www.youtube.com/watch?v=YOZmlYgYzG4", 
+		"duration":"42:02", 
+		"description":"Esibizione a Parigi in onore del centenario della prima de \"La sagra della primavera\" rappresentata per la prima volta a Parigi il 29 maggio 1913 al Théâtre des Champs-Élysées dai Balletts Russes di Sergei Diaghilev, su musica di Igor Stravinsky, con scenografie di Nicholas Roerich e per la coreografia di Vaslav Nijinsky."
+	},
+
+	{
+		"title":"Scottish Ballet: The Rite of Spring", 
+		"production":"The Rite of Spring", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/9hylt1DDITo/mqdefault_6s.webp?du=3000&sqp=CIL4we8F&rs=AOn4CLA4lqJBjgx0ZUBxdnJ3e4li-VLuMA", 
+		"video_url":"https://www.youtube.com/watch?v=9hylt1DDITo", 
+		"duration":"36:51", 
+		"description":"Intense and visceral, Christopher Hampson’s The Rite of Spring, created originally for Atlanta Ballet, is presented 100 years after the original production revolutionised the world of dance and music.\nSet to Stravinsky’s exhilarating score, performed live by the full Scottish Ballet Orchestra, Hampson uses three dancers to reinvent the now infamous story of remorseless human sacrifice with brutal physicality and primal energy."
+	},
+
+	{
+		"title":"SF Ballet in \"The Rite of Spring\"", 
+		"production":"The Rite of Spring", 
+		"category":"Contemporary Ballet", 
+		"img_url":"https://i.ytimg.com/an_webp/sPpq44uEyXo/mqdefault_6s.webp?du=3000&sqp=CPKAwu8F&rs=AOn4CLDLHIh_VbkO4rUSfnysrAJw89szbg", 
+		"video_url":"https://www.youtube.com/watch?v=sPpq44uEyXo", 
+		"duration":"1:41", 
+		"description":"Yuri Possokhov's The Rite of Spring is a gripping interpretation of Stravinsky's masterwork. It made its premiere during the 2013 SF Ballet season."
+	},
+
+	{
+		"title":"One Ballet Student’s Sacrifice for Her Dreams | Strictly Ballet - Season 2, Episode 1", 
+		"production":"Ballet Behind-the-scenes", 
+		"category":"Ballet Behind-the-scenes", 
+		"img_url":"https://i.ytimg.com/an_webp/vHfxfocDdBU/mqdefault_6s.webp?du=3000&sqp=CLaPwu8F&rs=AOn4CLCoDPJ9NUsvdPUtIzC1efm2dTmwkw", 
+		"video_url":"https://www.youtube.com/watch?v=vHfxfocDdBU", 
+		"duration":"10:09", 
+		"description":"Welcome to Miami where the sand is hot and the competition is fierce. Meet Mayumi, a student at Miami City Ballet School and a company apprentice. For this 18-year-old, the stakes are high: She left her family and home in Brazil at age 14 to pursue her ultimate ballet dreams."
+	},
+
+	{
+		"title":"Les secrets des pointes du Ballet de l'Opéra de Paris", 
+		"production":"Ballet Behind-the-scenes", 
+		"category":"Ballet Behind-the-scenes", 
+		"img_url":"https://i.ytimg.com/an_webp/sZoAx0rjqFI/mqdefault_6s.webp?du=3000&sqp=CMjQwe8F&rs=AOn4CLAEusn7HbI1M5h30xbdp1tz802ciw", 
+		"video_url":"https://www.youtube.com/watch?v=sZoAx0rjqFI", 
+		"duration":"9:00", 
+		"description":"De l’École de danse au Ballet de l’Opéra, combien de paires de pointes une danseuse utilise-t-elle en moyenne, comment s’en occupe- t-elle? En 5e division, deux jeunes élèves de l’École de danse découvrent leurs premières sensations sur pointes tandis que la danseuse Étoile Ludmila Pagliero nous raconte ses secrets de fabrication. Le Premier Danseur, Vincent Chaillet, revient quant à lui sur les précautions auxquelles veiller en tant que partenaire. Octave est parti enquêter dans les coulisses de l’Opéra en suivant l’itinéraire d’un chausson toujours aussi glamour.\nFrom the Ballet School to the Opera Ballet, how many pairs of pointe shoes does a dancer use on average, how does she handle it? In the 5th division, two young students from the Ballet School discover their first sensations on pointes while dancer Étoile Ludmila Pagliero reveals her manufacturing secrets. Premier Danseur Vincent Chaillet explains the precautions to be taken as a partner. Behind the scenes at the Paris Opera, Octave reveals the profile of an ever-glamorous ballet shoe."
+	},
+
+	{
+		"title":"Dance of the Little Swans Extended version 48 min. Vaganova Ballet Academy Auditions Young Dancers", 
+		"production":"Ballet Behind-the-scenes", 
+		"category":"Ballet Behind-the-scenes", 
+		"img_url":"https://i.ytimg.com/an_webp/aEvnu5oxx0Y/mqdefault_6s.webp?du=3000&sqp=CKr-we8F&rs=AOn4CLC_dukTzC-1cgcWuBJ_mXwGOHpLCA", 
+		"video_url":"https://www.youtube.com/watch?v=aEvnu5oxx0Y", 
+		"duration":"48:07", 
+		"description":"Extended version. Director's cut. Many young girls dream of becoming ballerinas, but only very few are prepared to apply the all-out effort and make the sacrifices that this dream demands. The famous Vaganova Ballet Academy in St.Petersburg welcomes the most talented and determined young dancers, but it makes them no promises.\nBeing a professional ballet dancer is an exhausting job. To live a fairy-tale on stage, ballet dancers have to suffer for their art behind the scenes: they follow a gruelling training schedule and stick to a strict diet. From an early age, they live in the ballet academy so that they can dedicate the most time possible to their training. As a consequence they are separated from their families. They leave their friends and their schools behind, and enter a new, very competitive environment, where it’s difficult to form friendships as their classmates are also their rivals.\nHowever, young hopefuls who make these sacrifices may find they are not enough to achieve their dreams. On top of all their hard work, professional ballerinas must have the right physique and be good looking. Besides, the challenging training regime may lead to injuries that can potentially put an end to their careers.\nStill, none of this deters young girls who are in love with dance and are determined to make it their career. They travel from across Russia to St. Petersburg, where they audition to enter the world-renowned Vaganova Ballet Academy. They are ready to trade a carefree childhood for a chance to become ballerinas and shine on stage. However, very few of them will be accepted to study in the famous academy since it has very high standards. As many of its past graduates have become international ballet stars, it has a rich heritage and a reputation that must be maintained.\nVaganova Ballet Academy was founded in 1738 by Imperial Decree of Empress Anna in the then-capital of Russia, St. Petersburg. Initially it was named the Imperial Ballet School, but as times and the country’s political systems changed, so did its titles. In 1957, the school was renamed in honour of its teacher, Agrippina Vaganova, who became famous for developing the method of classical ballet training that is still taught there.\nHead of Vaganova Ballet Academy is Nikolay Tsiskaridze, former Principle Dancer of The Bolshoi Theatre in Moscow. He holds the title of People's Artist of Russia and has received numerous other honours and accolades. Over his career, Nikolai Tsiskaridze has performed over 70 roles in major classical and contemporary ballets. Prior to joining the Vaganova Ballet School, he taught at the Bolshoi Theatre as well as at the Moscow Ballet Academy. He has been a member of the President's Council for Culture and Arts since 2011.\nToday, the Academy has 340 students, and competition for a place here is extremely tough. Each year, thousands of children audition, but only around 70 are accepted.  In total, only about half of each year's intake will complete the eight year curriculum and graduate. Those who persevere are rewarded with contracts with the leading ballet companies in Russia and abroad.\nRT Doc meets some of the young hopefuls storming the doors of the famous Academy to find out more about the dream they share, and to follow them on their first steps towards achieving it. "
+	},
+
+	{
+		"title":"Ballet, Sweat and Tears: The painful journey from young hopeful to prima ballerina", 
+		"production":"Ballet Behind-the-scenes", 
+		"category":"Ballet Behind-the-scenes", 
+		"img_url":"https://i.ytimg.com/an_webp/KdlM2QYBlE8/mqdefault_6s.webp?du=3000&sqp=CMXiwe8F&rs=AOn4CLAsPjCpQQeL1ggekVaaTqkvUs496A", 
+		"video_url":"https://www.youtube.com/watch?v=KdlM2QYBlE8", 
+		"duration":"24:58", 
+		"description":"Becoming a professional ballerina is a journey that begins at a young age and is extremely competitive. We meet young girls devoting their lives to the profession, as well as the women, who end up on the very top, performing on stage at the Mariinsky Theater in St. Petersburg.\n“Don Quixote”, “Carmen Suite” and “Nutcracker” are among the greatest ballets, popular with fans all over the world. Viewers enjoy the beauty and glory of the ballet universe,perhaps unaware that a ballerinas’ precise pirouettes and elegant steps are the result of many hours of exhaustive training and rehearsal. It takes a lifetime of hard work and dedication to prove themselves worthy of a major role. However, only very few are destined to perform solo parts, the rest will continue to dance in the corps de ballet.\nReal life for a ballerina is a long way from the fairytale roles they depict on stage. Young girls spend many hours in tough training and endless castings to show off their perfect form and talent. From childhood they devote their lives to a professional path through ballet academies, shut away from family and friends. They have no personal time, their days are given over to endless practice from early morning to late at night. In addition to a harsh training schedule and permanent diet, many talented young dancers must contend with cruel whispers and taunting giggles from jealous rivals. However stamina and a strong will help them to pursue their dream of dancing solo on the world-famous Bolshoi and Mariinsky stages.\nBeing a professional ballet dancer demands real strength and fitness in both miond and body. Russia’s most famous and celebrated prima ballerina, Diana Vishneva, knows firsthand, the real cost of achieving success and adoration from an audience"
+	},
+
+	{
+		"title":"", 
+		"production":"", 
+		"category":"", 
+		"img_url":"", 
+		"video_url":"", 
+		"duration":"", 
+		"description":""
+	}
+
+	],
+
+	"productions":[
+	{
+		"production":"Swan Lake", 
+		"category":"Classical Ballet", 
+		"description":""
+	},
+
+	{
+		"production":"Dance of the Sugar Plum Fairy", 
+		"category":"Classical Ballet", 
+		"description":""
+	},
+
+	{
+		"production":"The Sleeping Beauty", 
+		"category":"Classical Ballet", 
+		"description":"The Sleeping Beauty (Russian: Спящая красавица / Spyashaya krasavitsa) is a ballet in a prologue and three acts, first performed in 1890. The music was composed by Pyotr Ilyich Tchaikovsky (his opus 66). The score was completed in 1889, and is the second of his three ballets. The original scenario was conceived by Ivan Vsevolozhsky, and is based on Charles Perrault's La Belle au bois dormant. The choreographer of the original production was Marius Petipa. The premiere performance took place at the Mariinsky Theatre in St. Petersburg on January 15, 1890. The work has become one of the classical repertoire's most famous ballets."
+	},
+
+	{
+		"production":"The Nutcracker", 
+		"category":"Classical Ballet", 
+		"description":""
+	},
+
+	{
+		"production":"La Sylphide", 
+		"category":"Romantic Ballet", 
+		"description":""
+	},
+
+	{
+		"production":"Giselle", 
+		"category":"Romantic Ballet", 
+		"description":""
+	},
+
+	{
+		"production":"Concerto Barocco",
+		"category":"Neoclassical Ballet",
+		"description":""
+	},
+
+	{
+		"production":"Four Temperaments",
+		"category":"Neoclassical Ballet",
+		"description":""
+	},
+
+	{
+		"production":"Agon",
+		"category":"Neoclassical Ballet",
+		"description":""
+	},
+
+
+	{
+		"production":"All Directions",
+		"category":"Neoclassical Ballet",
+		"description":""
+	},
+
+	{
+		"production":"Revelations",
+		"category":"Contemporary Ballet",
+		"description":""
+	},
+
+	{
+		"production":"Bacchanale",
+		"category":"Contemporary Ballet",
+		"description":""
+	},
+
+	{
+		"production":"The Rite of Spring",
+		"category":"Contemporary Ballet",
+		"description":""
+	},
+
+	{
+		"production":"The Wiz",
+		"category":"Contemporary Ballet",
+		"description":""
+	},
+
+	{
+		"production":"",
+		"category":"Contemporary Ballet",
+		"description":""
+	}
+	]
+}]}
+
+
