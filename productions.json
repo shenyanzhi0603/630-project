@@ -1,0 +1,72 @@
+{
+	"productions":[
+	{
+		"production":"Swan Lake", 
+		"category":"Classical Ballet"
+	},
+
+	{
+		"production":"Dance of the Sugar Plum Fairy", 
+		"category":"Classical Ballet"
+	},
+
+	{
+		"production":"The Sleeping Beauty", 
+		"category":"Classical Ballet" 
+	},
+
+	{
+		"production":"The Nutcracker", 
+		"category":"Classical Ballet" 
+	},
+
+	{
+		"production":"La Sylphide", 
+		"category":"Romantic Ballet" 
+	},
+
+	{
+		"production":"Giselle", 
+		"category":"Romantic Ballet" 
+	},
+
+	{
+		"production":"Concerto Barocco",
+		"category":"Neoclassical Ballet"
+	},
+
+	{
+		"production":"Four Temperaments",
+		"category":"Neoclassical Ballet"
+	},
+
+	{
+		"production":"Agon",
+		"category":"Neoclassical Ballet"
+	},
+
+	{
+		"production":"All Directions",
+		"category":"Neoclassical Ballet"
+	},
+
+	{
+		"production":"Revelations",
+		"category":"Contemporary Ballet"
+	},
+
+	{
+		"production":"Bacchanale",
+		"category":"Contemporary Ballet"
+	},
+
+	{
+		"production":"The Rite of Spring",
+		"category":"Contemporary Ballet"
+	},
+
+	{
+		"production":"The Wiz",
+		"category":"Contemporary Ballet"
+	}]
+}
